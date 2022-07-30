@@ -1,0 +1,2 @@
+ cd /tmp && git clone https://github.com/Castro-Fidel/PortProton_PKGBUILD && cd PortProton_PKGBUILD && makepkg -si && cd
+

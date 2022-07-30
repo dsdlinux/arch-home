@@ -1,0 +1,4 @@
+ 
+yay -S --noconfirm virtualbox virtualbox-guest-iso virtualbox-host-modules-arch virtualbox-ext-oracle
+
+sudo usermod -a -G vboxusers username
